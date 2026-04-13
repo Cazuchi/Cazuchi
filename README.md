@@ -36,4 +36,4 @@ interesting findings about the different teams' strategic choices when pairing d
 - analysis.sql to showcase and explain my queries
 - The raw F1 Ergast datafiles (credit to: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?resource=download)
 
-## Over time I will be adding projects to this list, so keep an eye out if you're interested.
+#### More projects coming soon. I am actively developing this profile.
