@@ -32,8 +32,8 @@ table that highlight severall interesting aspects of the F1 Ergast dataset. The 
 about individual drivers performance over time, while the second query utilizes a CTE chain, window functions and the Gaps & Islands approach to calculate a table showcasing 
 interesting findings about the different teams' strategic choices when pairing drivers for a stint (unique combination of team and drivers). Included in this repo is: 
 - docker-compose.yml with the docker settings
-- schema.sql to define and populate the database with data
-- analysis.sql to showcase and explain my queries
+- [schema.sql](https://github.com/Cazuchi/F1-ergast-data-SQL-project/blob/main/schema.sql) to define and populate the database with data
+- [analysis.sql](https://github.com/Cazuchi/F1-ergast-data-SQL-project/blob/main/Analysis.sql) to showcase and explain my queries
 - The raw F1 Ergast datafiles (credit to: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?resource=download)
 
 #### More projects coming soon. I am actively developing this profile.
