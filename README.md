@@ -19,6 +19,7 @@ also has a dedicated README to further explain the contents of the project and i
 > * Python  
 > * DAX / PowerBi  
 > * Google BigQuery  
+
 TourMIS is a tourism database with bed nights, arrivals and population figures for 80+ destinations in Europe along with calculated estimates for destinations that do 
 not upload their own data. This project uses Python to pull bed nights, arrivals and population satistics from the TourMIS API, runs it through extensive formatting 
 functions and uploads it to two Google BigQuery tables. These BigQuery tables are then loaded into PowerBi where I used DAX to create a series of measures to calculate 
@@ -36,6 +37,7 @@ of tourism data. Included in this repo is:
 > Skills used in this project:  
 > * SQL  
 > * Docker  
+
 This project builds the Kaggle F1 Ergast dataset into a local Docker SQL database using SQL and then presents two extensive SQL queries to output transformed, calculated 
 table that highlight severall interesting aspects of the F1 Ergast dataset. The first query uses a series of CTEs to calculate a table highlighting interesting findings 
 about individual drivers performance over time, while the second query utilizes a CTE chain, window functions and the Gaps & Islands approach to calculate a table showcasing 
@@ -56,6 +58,7 @@ interesting findings about the different teams' strategic choices when pairing d
 > * PowerShell  
 > * Python  
 > * SQL  
+
 My cheatsheet that I continually add to as I troubleshoot issues that I encounter. It is purposefully written to match the way that I think when problemsolving and is meant as a personal reference when working on projects, but it might be interesting / useful to some of you reading this.  
 
 #### More projects coming soon. I am actively developing this profile.
