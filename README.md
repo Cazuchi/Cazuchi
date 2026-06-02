@@ -26,6 +26,12 @@ of tourism data. Included in this repo is:
 - The DAX code for the PowerBi measures. Commented to explain design decisions.
 - A link to the PowerBi dashboard to show off the final result. 
 
+> [!NOTE]  
+> Skills used in this project:  
+> * Python  
+> * DAX / PowerBi  
+> * Google BigQuery  
+
 ## [F1 Ergast data SQL project](https://github.com/Cazuchi/F1-ergast-data-SQL-project) 
 This project builds the Kaggle F1 Ergast dataset into a local Docker SQL database using SQL and then presents two extensive SQL queries to output transformed, calculated 
 table that highlight severall interesting aspects of the F1 Ergast dataset. The first query uses a series of CTEs to calculate a table highlighting interesting findings 
@@ -35,5 +41,24 @@ interesting findings about the different teams' strategic choices when pairing d
 - [schema.sql](https://github.com/Cazuchi/F1-ergast-data-SQL-project/blob/main/schema.sql) to define and populate the database with data
 - [analysis.sql](https://github.com/Cazuchi/F1-ergast-data-SQL-project/blob/main/Analysis.sql) to showcase and explain my queries
 - The raw F1 Ergast datafiles (credit to: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?resource=download)
+
+> [!NOTE]  
+> Skills used in this project:  
+> * SQL  
+> * Docker  
+
+## [Cheatsheet](https://github.com/Cazuchi/Cheatsheet) 
+My cheatsheet that I continually add to as I troubleshoot issues that I encounter. It is purposefully written to match the way that I think when problemsolving and is meant as a personal reference when working on projects, but it might be interesting / useful to some of you reading this.  
+
+> [!NOTE]  
+> Skills used in this project:  
+> * Crontabs  
+> * Debian  
+> * Docker  
+> * Git  
+> * GCP (Bigquery, IAM, Compute Engine)  
+> * PowerShell  
+> * Python  
+> * SQL  
 
 #### More projects coming soon. I am actively developing this profile.
