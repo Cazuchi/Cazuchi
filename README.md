@@ -58,6 +58,7 @@ interesting findings about the different teams' strategic choices when pairing d
 > * GCP (Bigquery, IAM, Compute Engine)  
 > * PowerShell  
 > * Python  
+> * SSH  
 > * SQL  
 
 My cheatsheet that I continually add to as I troubleshoot issues that I encounter. It is purposefully written to match the way that I think when problemsolving and is meant as a personal reference when working on projects, but it might be interesting / useful to some of you reading this.  
