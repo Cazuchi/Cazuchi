@@ -31,7 +31,7 @@ and insure continuity across the different data series within the dataset and th
 of tourism data. Included in this repo is: 
 - The Python code to pull, format and store the data from the API. Properly formatted and commented to explain design decisions. 
 - The DAX code for the PowerBi measures. Commented to explain design decisions.
-- A link to the PowerBi dashboard to show off the final result. 
+- [A link to the PowerBi dashboard to show off the final result.](https://app.powerbi.com/view?r=eyJrIjoiOGM4Yjk3NGUtMmVlNS00NTEyLTk3MjUtNWNiNDQ4ZDg2NTdhIiwidCI6IjcwZjRhY2NiLTM3N2UtNDg5ZS04YjhiLTI4NjllYjQwYmQ3MSJ9) 
 
 ## [F1 Ergast data SQL project](https://github.com/Cazuchi/F1-ergast-data-SQL-project) 
 > [!NOTE]  
