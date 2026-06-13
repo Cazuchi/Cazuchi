@@ -19,7 +19,7 @@ also has a dedicated README to further explain the contents of the project and i
 > Skills used in this project:  
 > * Python  
 > * DAX / PowerBi  
-> * Google BigQuery  
+> * Google Compute Engine / Secret Manager / IAM / BigQuery
 
 TourMIS is a tourism database with bed nights, arrivals and population figures for 135+ destinations in Europe along with calculated estimates for destinations that do 
 not upload their own data. This project uses Python to pull bed nights, arrivals and population satistics from the TourMIS API, runs it through extensive formatting 
