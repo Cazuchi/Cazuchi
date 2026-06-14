@@ -53,6 +53,7 @@ interesting findings about the different teams' strategic choices when pairing d
 > Skills used in this project:  
 > * Python  
 > * Playwright / Browser automation
+> * PowerShell interaction
 
 Simple script I made to automate a browser in order to:  
 * Navigate to a website
@@ -60,6 +61,8 @@ Simple script I made to automate a browser in order to:
 * Navigate the website's sub-menus
 * Download the desired dataset with hotel statistics and save it in the project folder
 * Load the data from the downloaded .csv file and format it into a compressed, easy-to-read visual format for use in presentations
+
+Since the script requires login info, but also needs to be usable by more than one person, it simply asks for login information from the user in the PowerShell terminal window.
 
 The output looks like this:  
 ![Script output](https://github.com/Cazuchi/Automating-browser-for-data-collection-and-visualization/blob/main/Benchmarking%20Alliance%20occupancy%20overview.png)  
