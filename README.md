@@ -48,6 +48,23 @@ interesting findings about the different teams' strategic choices when pairing d
 - [analysis.sql](https://github.com/Cazuchi/F1-ergast-data-SQL-project/blob/main/Analysis.sql) to showcase and explain my queries
 - The raw F1 Ergast datafiles (credit to: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?resource=download)
 
+## [Automating a browser in Playwright to download raw data and format it into a compressed, easy-to-read visual format for use in presentations](https://github.com/Cazuchi/Automating-browser-for-data-collection-and-visualization)  
+> [!NOTE]  
+> Skills used in this project:  
+> * Python  
+> * Playwright / Browser automation
+
+Simple script I made to automate a browser in order to:  
+* Navigate to a website
+* Log in
+* Navigate the website's sub-menus
+* Download the desired dataset with hotel statistics and save it in the project folder
+* Load the data from the downloaded .csv file and format it into a compressed, easy-to-read visual format for use in presentations
+
+The output looks like this:  
+![Script output](Benchmarking%20Alliance%20occupancy%20overview.png)  
+The table shows the occupancy rates for hotels in a select geographic area per day, per month with specific highlights in yellow for days with lower occupancy and highlights in green for days with higher occupany. Used to figure out and showcase what times of the year that there is the most room for added tourism activity for a given year
+
 ## [Cheatsheet](https://github.com/Cazuchi/Cheatsheet) 
 > [!NOTE]  
 > Skills used in this project:  
