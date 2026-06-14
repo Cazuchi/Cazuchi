@@ -65,7 +65,7 @@ Simple script I made to automate a browser in order to:
 Since the script requires login info, but also needs to be usable by more than one person, it simply asks for login information from the user in the PowerShell terminal window.
 
 The output looks like this:  
->[!NOTE]
+>[!IMPORTANT]
 >The data shown in the image is **MOCK** data. It broadly mimicks real trends, but is randomized and varies significantly from real data.  
 
 ![Script output](https://github.com/Cazuchi/Automating-browser-for-data-collection-and-visualization/blob/main/Benchmarking%20Alliance%20occupancy%20overview.png)  
