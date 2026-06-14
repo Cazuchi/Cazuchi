@@ -65,6 +65,9 @@ Simple script I made to automate a browser in order to:
 Since the script requires login info, but also needs to be usable by more than one person, it simply asks for login information from the user in the PowerShell terminal window.
 
 The output looks like this:  
+>[!NOTE]
+>The data shown in the image is **MOCK** data. It broadly mimicks real trends, but is randomized and varies significantly from real data.  
+
 ![Script output](https://github.com/Cazuchi/Automating-browser-for-data-collection-and-visualization/blob/main/Benchmarking%20Alliance%20occupancy%20overview.png)  
 The table shows the occupancy rates for hotels in a select geographic area per day, per month with specific highlights in yellow for days with lower occupancy and highlights in green for days with higher occupany. Used to figure out and showcase what times of the year that there is the most room for added tourism activity for a given year
 
