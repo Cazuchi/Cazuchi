@@ -52,7 +52,7 @@ While this project is supposed to primarily be a SQL exercise, I've made a Power
 [LINK]  
 The visualizations in the dashboard aren't meant to cover all of the results. They're meant as an example of the output, to show that the queries result in a correct data output and how that output might be visualized.
 
-## [dbt version of the F1 Ergast SQL project](https://github.com/Cazuchi/dbt-F1-ergast-data-SQL-project)
+## [dbt version of my F1 Ergast SQL project](https://github.com/Cazuchi/dbt-F1-ergast-data-SQL-project)
 > [!NOTE]  
 > Skills used in this project:  
 > * SQL
