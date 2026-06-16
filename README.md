@@ -60,7 +60,7 @@ The visualizations in the dashboard aren't meant to cover all of the results. Th
 > * Docker  
 > * Python  
 
-This project uses the same dataset and the same queries, except they've been modified to follow the pattern of a dbt database. To show that it's working and output correct data, [I've included a notebook with inline visualization to show the output of the project.](https://github.com/Cazuchi/dbt-F1-ergast-data-SQL-project/blob/main/analysis.ipynb)
+This project uses the same dataset and the same queries, except they've been modified to follow the pattern of a dbt database. To show that it's working and output correct data, [I've included a notebook with inline visualization to show the output of the project.](https://github.com/Cazuchi/dbt-F1-ergast-data-SQL-project/blob/main/analysis.ipynb) Similar to the PowerBi dashboard in the original F1 Ergast SQL project, the notebook isn't meant to cover all of the results. It's meant as an example of the output, to show that the queries result in a correct data output and how that output might be visualized.
 
 ## [Automating a browser in Playwright to download raw data and format it into a compressed, easy-to-read visual format for use in presentations](https://github.com/Cazuchi/Automating-browser-for-data-collection-and-visualization)  
 > [!NOTE]  
