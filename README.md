@@ -48,6 +48,20 @@ interesting findings about the different teams' strategic choices when pairing d
 - [analysis.sql](https://github.com/Cazuchi/F1-ergast-data-SQL-project/blob/main/Analysis.sql) to showcase and explain my queries
 - The raw F1 Ergast datafiles (credit to: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?resource=download)
 
+While this project is supposed to primarily be a SQL exercise, I've made a PowerBi dashboard that shows some of the output of my CTE chain queries, which is available here:
+[LINK]
+The visualizations in the dashboard aren't meant to cover all of the results. They're meant as an example of the output, to show that the queries result in a correct data output and how that output might be visualized.
+
+## [dbt version of the F1 Ergast SQL project](https://github.com/Cazuchi/dbt-F1-ergast-data-SQL-project)
+> [!NOTE]  
+> Skills used in this project:  
+> * SQL
+> * dbt  
+> * Docker  
+> * Python  
+
+This project uses the same dataset and the same queries, except they've been modified to follow the pattern of a dbt database. To show that it's working and output correct data, [I've included a notebook with inline visualization to show the output of the project.](https://github.com/Cazuchi/dbt-F1-ergast-data-SQL-project/blob/main/analysis.ipynb)
+
 ## [Automating a browser in Playwright to download raw data and format it into a compressed, easy-to-read visual format for use in presentations](https://github.com/Cazuchi/Automating-browser-for-data-collection-and-visualization)  
 > [!NOTE]  
 > Skills used in this project:  
