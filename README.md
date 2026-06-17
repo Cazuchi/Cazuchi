@@ -5,8 +5,9 @@ however after graduating I have been working constantly to develop my skillset, 
 
 - Setting up cloud pipelines from A to Z for data collection, analysis and visualization 
 - Coding in Python, SQL, DAX 
-- Setting up and interacting with SQL databases in Docker 
+- Setting up and interacting with SQL databases in Docker (PostgreSQL with and without dbt on top)
 - GCP: BigQuery, IAM, Secret Manager, SSH, Firewall restrictions, Compute Engine (Debian usually) 
+- Azure: Fabric notebooks, Spark, lakehouse table management
 
 These skills are not obvious from my educational credentials however and because of confidentiality requirements I cannot directly show projects that I have worked on 
 professionally. Therefore the projects in this GitHub profile have been created to highlight these skills and show off projects that I find interesting.
@@ -91,12 +92,14 @@ The table shows the occupancy rates for hotels in a select geographic area per d
 > * Crontabs  
 > * Debian  
 > * Docker  
+> * Fabric notebooks  
 > * Git  
 > * GCP (Bigquery, IAM, Compute Engine)  
 > * PowerShell  
 > * Python  
 > * SSH  
 > * SQL  
+> * ... and more.  
 
 My cheatsheet that I continually add to as I troubleshoot issues that I encounter. It is purposefully written to match the way that I think when problemsolving and is meant as a personal reference when working on projects, but it might be interesting / useful to some of you reading this.  
 
