@@ -50,8 +50,14 @@ interesting findings about the different teams' strategic choices when pairing d
 - The raw F1 Ergast datafiles (credit to: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?resource=download)
 
 While this project is supposed to primarily be a SQL exercise, I've made a PowerBi dashboard that shows some of the output of my CTE chain queries, which is available here:  
-[LINK]  
-The visualizations in the dashboard aren't meant to cover all of the results. They're meant as an example of the output, to show that the queries result in a correct data output and how that output might be visualized.
+https://app.powerbi.com/view?r=eyJrIjoiZDFhOGMyMTMtYzBjMS00Mjc1LTgzN2UtMGJjNjEzMDA3N2ZlIiwidCI6IjcwZjRhY2NiLTM3N2UtNDg5ZS04YjhiLTI4NjllYjQwYmQ3MSJ9  
+
+The graphs is just a simple scatterplot showing the difference in drivers' total career points between using the legacy scoring models in place when a given race took place and adjusting all of a driver's points to match the newest 25-point scoring model used in modern F1 races.  
+
+Legacy career points are shown on the x-axis. Modern career points are shown on the y-axis and the dots a colored depending on how large the difference is between the modern and the legacy career points totals:  
+* Green: Less than 50% difference  
+* Yellow: Between 50% and 100% difference  
+* Red: More than 100% difference  
 
 ## [dbt version of my F1 Ergast SQL project](https://github.com/Cazuchi/dbt-F1-ergast-data-SQL-project)
 > [!NOTE]  
