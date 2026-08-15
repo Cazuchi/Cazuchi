@@ -50,7 +50,7 @@ The data is cached for 3,600 seconds to avoid unnecessary re-pulls and the data 
 [You can see and interact with the dashboard here.](https://nyc-cab-streamlit-dashboard-562594843791.europe-west1.run.app/)  
 
 Here is a preview of the dashboard:  
-![Alt text](/imgs/preview.png)    
+![Alt text](https://github.com/Cazuchi/nyc-cab-streamlit-dashboard/blob/main/imgs/preview.png)    
 
 ## [F1 Ergast data SQL project](https://github.com/Cazuchi/F1-ergast-data-SQL-project) 
 > [!NOTE]  
