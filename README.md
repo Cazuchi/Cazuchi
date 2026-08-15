@@ -5,9 +5,10 @@ however after graduating I have been working constantly to develop my skillset, 
 
 - Setting up cloud pipelines from A to Z for data collection, analysis and visualization 
 - Coding in Python, SQL, DAX 
+- PowerBi, Streamlit for data visualization
 - Setting up and interacting with SQL databases in Docker (PostgreSQL with and without dbt on top)
 - GCP: BigQuery, IAM, Secret Manager, SSH, Firewall restrictions, Compute Engine (Debian usually) 
-- Azure: Fabric notebooks, Spark, lakehouse table management
+- Azure: Fabric notebooks, Spark, lakehouse table management  
 
 These skills are not obvious from my educational credentials however and because of confidentiality requirements I cannot directly show projects that I have worked on 
 professionally. Therefore the projects in this GitHub profile have been created to highlight these skills and show off projects that I find interesting.
