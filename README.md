@@ -34,7 +34,7 @@ of tourism data. Included in this repo is:
 - The DAX code for the PowerBi measures. Commented to explain design decisions.
 - [A link to the PowerBi dashboard to show off the final result.](https://app.powerbi.com/view?r=eyJrIjoiOGM4Yjk3NGUtMmVlNS00NTEyLTk3MjUtNWNiNDQ4ZDg2NTdhIiwidCI6IjcwZjRhY2NiLTM3N2UtNDg5ZS04YjhiLTI4NjllYjQwYmQ3MSJ9)
 
-## [Streamlit dashboard made with the NYX taxi dataset](https://github.com/Cazuchi/nyc-cab-streamlit-dashboard)
+## [Streamlit dashboard made with the NYC taxi dataset](https://github.com/Cazuchi/nyc-cab-streamlit-dashboard)
 > [!NOTE]
 > Skills used in this project:  
 > * Streamlit  
