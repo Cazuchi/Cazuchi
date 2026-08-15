@@ -32,7 +32,25 @@ and insure continuity across the different data series within the dataset and th
 of tourism data. Included in this repo is: 
 - The Python code to pull, format and store the data from the API. Properly formatted and commented to explain design decisions. 
 - The DAX code for the PowerBi measures. Commented to explain design decisions.
-- [A link to the PowerBi dashboard to show off the final result.](https://app.powerbi.com/view?r=eyJrIjoiOGM4Yjk3NGUtMmVlNS00NTEyLTk3MjUtNWNiNDQ4ZDg2NTdhIiwidCI6IjcwZjRhY2NiLTM3N2UtNDg5ZS04YjhiLTI4NjllYjQwYmQ3MSJ9) 
+- [A link to the PowerBi dashboard to show off the final result.](https://app.powerbi.com/view?r=eyJrIjoiOGM4Yjk3NGUtMmVlNS00NTEyLTk3MjUtNWNiNDQ4ZDg2NTdhIiwidCI6IjcwZjRhY2NiLTM3N2UtNDg5ZS04YjhiLTI4NjllYjQwYmQ3MSJ9)
+
+## [Streamlit dashboard made with the NYX taxi dataset](https://github.com/Cazuchi/nyc-cab-streamlit-dashboard)
+> [!NOTE]
+> Skills used in this project:  
+> * Streamlit  
+> * BigQuery  
+> * Cloud Run  
+> * Python  
+> * SQL  
+
+I used SQL to extract a subset of the NYC yellow taxi dataset and stored that in a BigQuery table. The Streamlit dashboard compares select KPIs across two boroughs of the user's choosing.  
+
+The data is cached for 3,600 seconds to avoid unnecessary re-pulls and the data pulls are separated so that changing a value in one drop-down only updates the subset of the total dataset for that borough.  
+
+[You can see and interact with the dashboard here.](https://nyc-cab-streamlit-dashboard-562594843791.europe-west1.run.app/)  
+
+Here is a preview of the dashboard:  
+![Alt text](/imgs/preview.png)    
 
 ## [F1 Ergast data SQL project](https://github.com/Cazuchi/F1-ergast-data-SQL-project) 
 > [!NOTE]  
