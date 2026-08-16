@@ -3,12 +3,13 @@ And this is my GitHub profile, which is meant to showcase skills that I have dev
 My master's degree focused on a combination of data collection methodologies, statistical analysis of data and the interpretation of results for use in business, 
 however after graduating I have been working constantly to develop my skillset, which now also includes, amongst others: 
 
-- Setting up cloud pipelines from A to Z for data collection, analysis and visualization 
-- Coding in Python, SQL, DAX 
-- PowerBi, Streamlit for data visualization
-- Setting up and interacting with SQL databases in Docker (PostgreSQL with and without dbt on top)
-- GCP: BigQuery, IAM, Secret Manager, SSH, Firewall restrictions, Compute Engine (Debian usually) 
-- Azure: Fabric notebooks, Spark, lakehouse table management  
+> [!IMPORTANT]
+> - Setting up cloud pipelines from A to Z for data collection, analysis and visualization  
+> - Coding in Python, SQL, DAX  
+> - PowerBi, Streamlit for data visualization  
+> - Setting up and interacting with SQL databases in Docker (PostgreSQL with and without dbt on top)  
+> - GCP: BigQuery, IAM, Secret Manager, SSH, Firewall restrictions, Compute Engine (Debian usually)  
+> - Azure: Fabric notebooks, Spark, lakehouse table management  
 
 These skills are not obvious from my educational credentials however and because of confidentiality requirements I cannot directly show projects that I have worked on 
 professionally. Therefore the projects in this GitHub profile have been created to highlight these skills and show off projects that I find interesting.
