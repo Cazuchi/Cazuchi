@@ -132,4 +132,7 @@ The table shows the occupancy rates for hotels in a select geographic area per d
 
 My cheatsheet that I continually add to as I troubleshoot issues that I encounter. It is purposefully written to match the way that I think when problemsolving and is meant as a personal reference when working on projects, but it might be interesting / useful to some of you reading this.  
 
+## [Unlocking Excel (.xlsx) files](https://github.com/Cazuchi/unlock-excel-files.git)  
+This is just a basic script that I made to remove sheet protection from .xlsx files and change sheet visibility to visible. You'd be surprised how often this comes in handy in a general office environment, lol.  
+
 #### More projects coming soon. I am actively developing this profile.
