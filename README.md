@@ -54,6 +54,21 @@ The data is cached for 3,600 seconds to avoid unnecessary re-pulls and the data 
 Here is a preview of the dashboard:  
 ![Alt text](https://github.com/Cazuchi/nyc-cab-streamlit-dashboard/blob/main/imgs/preview.png)    
 
+## [Streamlit dashboard with dynamic PDF download option](https://github.com/Cazuchi/streamlit-dashboard-with-downloadable-report)
+> [!NOTE]
+> Skills used in this project:  
+> * Streamlit  
+> * Cloud Run  
+> * Python  
+
+A Streamlit dashboard I made which calculates and reports on select metrics for bed nights in Copenhagen as well as an average across available European destinations. 
+
+Static view available here:
+https://cazuchi.github.io/streamlit-dashboard-with-downloadable-report/
+
+Here is a preview of the dashboard:  
+![Alt text](https://github.com/Cazuchi/streamlit-dashboard-with-downloadable-report/blob/main/imgs/preview.png) 
+
 ## [F1 Ergast data SQL project](https://github.com/Cazuchi/F1-ergast-data-SQL-project) 
 > [!NOTE]  
 > Skills used in this project:  
